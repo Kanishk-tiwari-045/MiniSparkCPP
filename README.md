@@ -1,4 +1,4 @@
-# MiniSparkCPP — Workflow, Objective, and README
+# MiniSparkCPP — Workflow
 
 ## Objective
 
