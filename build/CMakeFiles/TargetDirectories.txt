@@ -1,0 +1,3 @@
+/home/kanishk/Downloads/Big-Data/MiniSparkCPP/build/CMakeFiles/MiniSparkCPP.dir
+/home/kanishk/Downloads/Big-Data/MiniSparkCPP/build/CMakeFiles/edit_cache.dir
+/home/kanishk/Downloads/Big-Data/MiniSparkCPP/build/CMakeFiles/rebuild_cache.dir

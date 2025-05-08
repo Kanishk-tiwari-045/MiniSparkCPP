@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MiniSparkCPP.dir/src/FileRDD.cpp.o CMakeFiles/MiniSparkCPP.dir/src/LogisticRegression.cpp.o CMakeFiles/MiniSparkCPP.dir/src/MiniSparkApp.cpp.o CMakeFiles/MiniSparkCPP.dir/src/PageRank.cpp.o -o MiniSparkCPP 

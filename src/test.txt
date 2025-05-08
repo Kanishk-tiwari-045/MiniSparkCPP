@@ -1,0 +1,4 @@
+apple banana
+carrot apple
+banana date egg
+fig
